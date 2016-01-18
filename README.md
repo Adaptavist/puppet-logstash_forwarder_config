@@ -1,4 +1,5 @@
 # puppet-logstash_forwarder_config
+[![Build Status](https://travis-ci.org/Adaptavist/puppet-logstash_forwarder_config.svg?branch=master)](https://travis-ci.org/Adaptavist/puppet-logstash_forwarder_config)
 
 A puppet module for managing and configuring logstash-forwarder module, creating tracked files and source repository management
 
