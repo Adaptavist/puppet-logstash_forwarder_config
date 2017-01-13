@@ -1,5 +1,5 @@
 name 'adaptavist-logstash_forwarder_config'
-version '0.1.10'
+version '1.0.0'
 source 'https://github.com/Adaptavist/logstash_forwarder_config.git'
 author 'adaptavist'
 summary 'logstash_forwarder_config Module' 

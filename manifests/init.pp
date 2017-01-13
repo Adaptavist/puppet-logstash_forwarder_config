@@ -14,7 +14,7 @@ class logstash_forwarder_config(
     if (str2bool($present)){
 
         validate_array($servers)
-        
+
         if ($package_url and $package_url != 'false') {
             $manage_repo = false
             $real_package_url = $package_url
