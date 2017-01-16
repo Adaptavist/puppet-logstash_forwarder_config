@@ -4,7 +4,6 @@ fixtures:
       repo: "https://github.com/Adaptavist/puppet-stdlib"
     logstashforwarder:
       repo: "https://github.com/Adaptavist/puppet-logstashforwarder"
-      ref: '0.1.1'
     logrotate:
       repo: "https://github.com/Adaptavist/puppet-logrotate"
     concat:
